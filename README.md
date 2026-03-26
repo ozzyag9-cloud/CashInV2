@@ -1,4 +1,4 @@
-# MoneyPrinter V2
+# MoneyPrinter V2 ghpUHyBg3NFLGW8yjKG2UDrQUKb6P0FWt1DEGDi
  
 > ♥︎ **Sponsor**: The Best AI Chat App: [shiori.ai](https://www.shiori.ai). Use code **MPV2** for 20% off.
 
